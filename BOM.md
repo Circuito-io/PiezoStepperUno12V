@@ -4,17 +4,20 @@ Input:
 
 [Piezo Element](https://www.sparkfun.com/products/10293)
 
-  Additionals:
+  
+  Additionals (to Input):
 
-  [Resistor 1.0M Ohm ](https://www.sparkfun.com/products/11853) - Quantity:1
+  - [Resistor 1.0M Ohm ](https://www.sparkfun.com/products/11853) - Quantity:1
 
 Output:
 
 [Stepper Motor with Cable](https://www.sparkfun.com/products/9238)
 
-  Additionals:
+  
+  Additionals (to Output):
 
-  [EasyDriver - Stepper Motor Driver](https://www.sparkfun.com/products/12779) - Quantity:1
+  
+  - [EasyDriver - Stepper Motor Driver](https://www.sparkfun.com/products/12779) - Quantity:1
 
 Controller:
 
